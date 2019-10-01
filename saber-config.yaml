@@ -1,0 +1,3 @@
+permalinks:
+  post: /posts/:slug
+  page: /:slug
