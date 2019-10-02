@@ -13,7 +13,7 @@
               }
             },
 {
-              path: "/page1.html",
+              path: "/page1",
               meta: {
                 __relative: 'page1.vue',
                 __pageId: 'c24befe4'
