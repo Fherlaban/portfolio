@@ -5,5 +5,4 @@
         <saber-link to='/page1'>Page one</saber-link>
     </p>
   </div>
-
 </template>
